@@ -1,0 +1,19 @@
+
+======================================================================
+  BEFORE / AFTER COMPARISON
+======================================================================
+  Task class: Deep Research
+----------------------------------------------------------------------
+  Query                                              Baseline  StemAgent   Delta
+----------------------------------------------------------------------
+  What are the main technical approaches to reduci      0.750      0.850  +0.100
+  Compare transformer and state space model archit      0.750      0.720  -0.030
+  What is the current state of AI safety research       0.800      0.780  -0.020
+  How do retrieval-augmented generation systems wo      0.800      0.700  -0.100
+  What are the key challenges in building reliable      0.800      0.710  -0.090
+----------------------------------------------------------------------
+  MEAN                                                  0.780      0.752   -3.6%
+======================================================================
+  Iterations to convergence: 3
+  Converged: True
+======================================================================
